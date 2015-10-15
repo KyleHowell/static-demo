@@ -1,0 +1,29 @@
+/*Fonts
+"Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+"Inconsolata", "Courier New", monospace;
+*/
+
+body {
+    background-color: #FAFAFA;
+    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+.margin0 {
+    margin: 0;
+}
+
+.header {
+    height: 60px;
+    background-color: #0090D5;
+    min-width: 100%;
+}
+
+.center {
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
